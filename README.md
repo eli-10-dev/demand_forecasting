@@ -39,6 +39,8 @@ Include a few bullets like:
 - Weighted Moving Average (WMA) produced lower Mean Absolute Error compared to Simple Moving Average (SMA).
 - Recent sales fluctuations were better captured by assigning higher weights to recent observations.
 - Both models indicated immediate upward trends followed by decrease in sales, but WMA responded more sensitively to the previous weeks' fluctuations.
-![image.png](../assets/image_1770379453952_0.png)
+  
+<img width="472" height="283" alt="image" src="https://github.com/user-attachments/assets/428b2030-e694-4b62-8e3a-1974f2aaea58" />
+
 
 ---
