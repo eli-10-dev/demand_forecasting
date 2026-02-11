@@ -11,6 +11,6 @@
 	- June, September, and October consistently exhibit high sales across the observed years. July, August, and November generally show lower sales. However, when consistency is defined as repeated behavior across all available years, only August and November remain consistently low-performing months.
 	- Consistency is defined by the repeated behavior across all observed years.  It should be noted that the data in 2016 show an opposite story for both low and high selling months.
 - What would be the sales for the next 2-3 weeks?
-	- ![image.png](../assets/image_1770379453952_0.png){:height 291, :width 472}
+	- ![image.png](../assets/image_1770379453952_0.png)
 	- Both Simple Moving Average (SMA) and Weighted Moving Average (WMA) forecast an increase in sales for the upcoming week. SMA projects a slight pullback in the second week and stabilization thereafter, while WMA anticipates a continued increase over the next two weeks before a slight decrease.
 	- Based on the Mean Absolute Error (MAE), WMA shows a slightly lower error compared to SMA, suggesting that it better captures recent fluctuations. Given the volatility observed in the past 4–5 weeks, WMA may be more suitable for short-term planning as it responds more quickly to recent changes in sales patterns.
