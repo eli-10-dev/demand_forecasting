@@ -1,6 +1,6 @@
 # Sales Forecasting Analysis
 
-**A data analysis project applying time series forecasting techniques to predict future sales using SQL and Excel.**
+**A data analysis project applyies time series forecasting techniques to predict future sales using SQL and Excel.**
 
 ---
 
